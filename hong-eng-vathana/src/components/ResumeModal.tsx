@@ -208,7 +208,7 @@ export const ResumeModal: React.FC<ResumeModalProps> = ({ isOpen, onClose, darkM
           </div>
 
           <div className="text-xs text-slate-700 mb-2">
-            Academic Performance: Year 1 GPA: 3.78 • Year 2 GPA: 3.67 • Year 3 GPA: 3.55 • Cumulative Average: 3.67 / 4.00
+            Academic Performance: Year 1 GPA: 3.78 • Year 2 GPA: 3.67 • Year 3 GPA: 3.55 • Not Yet Available
           </div>
           <div className="text-[11px] text-slate-600">
             Coursework: Data Structures & Algorithms, Object-Oriented Software Design, Distributed Systems, Database Management Systems, System Analysis, Software Quality & Testing.
