@@ -20,7 +20,7 @@ interface AboutProps {
 export const About: React.FC<AboutProps> = ({ darkMode }) => {
   const highlights = [
     {
-      title: '4 Years Remote Experience',
+      title: '3 Years Remote Experience',
       desc: 'Collaborating continuously with a US-based enterprise company across distributed timezones with high autonomy and communication clarity.',
       icon: Globe,
       tech: 'git',
@@ -95,7 +95,7 @@ export const About: React.FC<AboutProps> = ({ darkMode }) => {
             Engineering Foundation & Story
           </h2>
           <p className="mt-3 text-slate-500 max-w-2xl text-sm sm:text-base">
-            Bridging senior academic computer science rigor with four years of commercial remote software engineering for a US enterprise.
+            Bridging senior academic computer science rigor with three years of commercial remote software engineering for a US enterprise.
           </p>
         </div>
 
@@ -147,7 +147,7 @@ export const About: React.FC<AboutProps> = ({ darkMode }) => {
                       Software Engineer
                     </p>
                     <span className="text-[11px] text-slate-500 font-mono block mt-0.5">
-                      4 Years Remote • US Enterprise
+                      3 Years Remote • US Enterprise
                     </span>
                   </div>
                 </div>
@@ -161,7 +161,7 @@ export const About: React.FC<AboutProps> = ({ darkMode }) => {
                   >
                     <span className="text-slate-400 text-[11px] font-medium">Commercial Tenure</span>
                     <span className={`font-semibold ${darkMode ? 'text-white' : 'text-slate-900'}`}>
-                      4 Years Remote
+                      3 Years Remote
                     </span>
                   </div>
 
@@ -183,7 +183,7 @@ export const About: React.FC<AboutProps> = ({ darkMode }) => {
                   >
                     <span className="text-slate-400 text-[11px] font-medium">Academic Standing</span>
                     <span className="text-blue-600 font-semibold">
-                      Year 4 CS • 3.67 GPA
+                      Year 4 CS • Cum. GPA 3.67
                     </span>
                   </div>
 
@@ -255,7 +255,7 @@ export const About: React.FC<AboutProps> = ({ darkMode }) => {
                 }`}
               >
                 <p>
-                  I am a Year 4 Computer Science student with four consecutive years of commercial remote software engineering experience collaborating with a US-based enterprise company. While many engineers encounter enterprise production environments after graduating, I have been actively designing, building, and maintaining production systems since 2022.
+                  I am a Year 4 Computer Science student with three years of commercial remote software engineering experience collaborating with a US-based enterprise company — 2 years of structured training followed by 1 year as a full-time Software Engineer. While many engineers encounter enterprise production environments after graduating, I have been actively designing, building, and maintaining production systems since 2022.
                 </p>
 
                 <p>
@@ -310,6 +310,9 @@ export const About: React.FC<AboutProps> = ({ darkMode }) => {
                   </span>
                 </div>
               </div>
+              <p className="mt-3 text-[11px] text-slate-400 italic">
+                Year 4 GPA not yet released — cumulative average reflects Years 1–3.
+              </p>
             </div>
           </div>
         </div>
