@@ -108,7 +108,7 @@ export const ResumeModal: React.FC<ResumeModalProps> = ({ isOpen, onClose, darkM
             Professional Summary
           </h2>
           <p className="text-xs leading-relaxed text-slate-700">
-            Software Engineer and Year 4 Computer Science university student with 4 years of continuous commercial remote experience with a US-based enterprise company. Specializing in architecting modular Angular web applications, high-performance C#/.NET Core RESTful microservices, and cross-platform Flutter mobile applications with offline SQLite sync. Proven track record coordinating sprint execution, code quality, and cross-functional alignment.
+            Software Engineer and Year 4 Computer Science university student with 3 years of commercial remote experience with a US-based enterprise company — 2 years of structured training followed by 1 year as a full-time Software Engineer. Specializing in architecting modular Angular web applications, high-performance C#/.NET Core RESTful microservices, and cross-platform Flutter mobile applications with offline SQLite sync. Proven track record coordinating sprint execution, code quality, and cross-functional alignment.
           </p>
         </div>
 
@@ -208,7 +208,7 @@ export const ResumeModal: React.FC<ResumeModalProps> = ({ isOpen, onClose, darkM
           </div>
 
           <div className="text-xs text-slate-700 mb-2">
-            Academic Performance: Year 1 GPA: 3.78 • Year 2 GPA: 3.67 • Year 3 GPA: 3.55 • Not Yet Available
+            Academic Performance: Year 1 GPA: 3.78 • Year 2 GPA: 3.67 • Year 3 GPA: 3.55 • Year 4 GPA: Not Yet Available • Cumulative (Yrs 1–3): 3.67 / 4.00
           </div>
           <div className="text-[11px] text-slate-600">
             Coursework: Data Structures & Algorithms, Object-Oriented Software Design, Distributed Systems, Database Management Systems, System Analysis, Software Quality & Testing.
