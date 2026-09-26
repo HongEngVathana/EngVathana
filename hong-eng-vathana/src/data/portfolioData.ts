@@ -18,8 +18,8 @@ export const PERSONAL_INFO = {
   ],
   headline: 'Software Engineer Building Scalable Digital Products.',
   subheadline:
-    'Software Engineer specializing in Angular, C#/.NET, Flutter, REST APIs, and modern software architecture — with 4 years of remote enterprise experience.',
-  aboutStory: `I am a Year 4 Computer Science university student with over four years of practical, commercial software engineering experience. Since 2022, I have worked remotely with a US-based enterprise company, designing, building, and maintaining production-grade software solutions across the entire technical stack.
+    'Software Engineer specializing in Angular, C#/.NET, Flutter, REST APIs, and modern software architecture — with 2 years of training and 1 year of professional experience at a US-based enterprise company.',
+  aboutStory: `I am a Year 4 Computer Science university student with practical, commercial software engineering experience. Since 2022, I have collaborated remotely with a US-based enterprise company — spending my first 2 years in structured training and mentorship, followed by 1 year as a full-time contributing Software Engineer, designing, building, and maintaining production-grade software solutions across the entire technical stack.
 
 My core technical strengths center on architecting modular Angular web applications, robust C# and ASP.NET Core backend services with Entity Framework, and cross-platform Flutter mobile applications backed by clean RESTful APIs. Beyond coding, I serve as a Team Leader and Scrum Master, facilitating sprint ceremonies, steering technical discussions, leading code reviews, and conducting system analyses to bridge user needs and technical implementation.
 
@@ -29,13 +29,13 @@ I approach software engineering with a grounded commitment to clean architecture
   linkedin: 'https://linkedin.com/in/vathanahong', // placeholder customizable link
   status: 'Available for Select Enterprise & High-Impact Engineering Roles',
   currentYear: 'Year 4 Computer Science Student',
-  yearsRemote: '4 Years Remote (US Company)',
+  yearsRemote: '3 Years Remote (US Company)',
   corePillars: [
-    { label: 'Remote Enterprise', value: '4 Years', desc: 'US-based company collaboration' },
+    { label: 'Remote Enterprise', value: '3 Years', desc: '2 Yrs Training + 1 Yr Work, US-based company' },
     { label: 'Mobile / Flutter', value: '4 Years', desc: 'Cross-platform UI & offline sync' },
     { label: 'Angular Frontend', value: '3 Years', desc: 'Enterprise SPAs & design systems' },
     { label: 'C# / .NET Backend', value: '2 Years', desc: 'Clean architecture & RESTful services' },
-    { label: 'Academic Standing', value: '3.67 Avg GPA', desc: 'Year 4 Computer Science student' },
+    { label: 'Academic Standing', value: 'Year 4 Student', desc: 'GPA to be announced upon graduation' },
     { label: 'Agile Leadership', value: 'Scrum Master', desc: 'Sprint planning & team mentoring' },
   ],
 };
@@ -47,7 +47,7 @@ export const EXPERIENCE_DATA: ExperienceItem[] = [
     companyType: 'US-Based Enterprise Company',
     location: 'Remote (US Client Timezone Collaboration)',
     summary:
-      'Engineered scalable enterprise web, mobile, and backend microservices while leading sprint cycles, facilitating technical architecture discussions, and coordinating cross-functional team deliverables.',
+      'Began with 2 years of structured training and mentorship at a US-based enterprise company, then transitioned into 1 year as a full-time Software Engineer — engineering scalable enterprise web, mobile, and backend microservices while leading sprint cycles, facilitating technical architecture discussions, and coordinating cross-functional team deliverables.',
     developmentResponsibilities: [
       'Develop and maintain enterprise-grade web applications utilizing Angular, TypeScript, and modern component hierarchies.',
       'Build robust, testable C# and ASP.NET Core backend services, REST APIs, and database models using Entity Framework Core.',
@@ -583,8 +583,8 @@ export const EDUCATION_DATA: EducationMilestone[] = [
   },
   {
     year: 'Year 4',
-    gpa: 'In Progress',
-    status: 'Currently Studying (Final Year)',
+    gpa: 'Not Yet Available',
+    status: 'Currently Studying — GPA Not Yet Released (Final Year)',
     highlights: ['Capstone Enterprise Engineering Project', 'Distributed Systems & Cloud Computing', 'Advanced Security, Testing & System Deployment'],
   },
 ];
@@ -637,10 +637,10 @@ export const JOURNEY_STAGES: JourneyStage[] = [
   },
   {
     step: 6,
-    title: 'Enterprise Remote Collaboration',
+    title: 'Enterprise Remote Training & Work',
     timeframe: '2022 — Present (US Company)',
     description:
-      'Joined a US-based company remotely, delivering commercial software solutions, adhering to enterprise quality standards, and maintaining reliable cross-timezone delivery.',
+      'Joined a US-based company remotely, completing 2 years of structured training under senior engineers before stepping into 1 year as a full-time Software Engineer, delivering commercial software solutions and maintaining reliable cross-timezone collaboration.',
     technologies: ['Enterprise Systems', 'RESTful Services', 'Docker', 'Git', 'CI/CD Pipelines'],
     icon: 'Briefcase',
   },
