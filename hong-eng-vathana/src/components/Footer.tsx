@@ -136,7 +136,7 @@ export const Footer: React.FC<FooterProps> = ({ darkMode, openResume }) => {
             © {new Date().getFullYear()} Hong Eng Vathana. Designed & engineered with Clean Architecture.
           </div>
           <div>
-            4 Years Remote Experience • US-Based Company • Year 4 CS Student
+            3 Years Remote Experience • US-Based Company • Year 4 CS Student
           </div>
         </div>
       </div>
