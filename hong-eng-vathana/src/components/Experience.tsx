@@ -45,7 +45,7 @@ export const Experience: React.FC<ExperienceProps> = ({ darkMode }) => {
             Professional Remote Experience
           </h2>
           <p className="mt-3 text-slate-500 max-w-2xl text-sm sm:text-base">
-            Four consecutive years delivering production enterprise software with a US-based company, blending hands-on engineering with team leadership and Scrum mastery.
+            Three years delivering production enterprise software with a US-based company — 2 years of structured training followed by 1 year as a full-time engineer — blending hands-on engineering with team leadership and Scrum mastery.
           </p>
         </div>
 
