@@ -85,7 +85,7 @@ export const Hero: React.FC<HeroProps> = ({ darkMode, openResume }) => {
                     <span className="relative inline-flex rounded-full h-2 w-2 bg-emerald-500"></span>
                   </span>
                   <span className="font-mono text-[11px] tracking-wider uppercase font-semibold">
-                    Software Engineer • 4 Years Remote Enterprise
+                    Software Engineer • 3 Years Remote Enterprise
                   </span>
                 </div>
               </div>
@@ -108,7 +108,7 @@ export const Hero: React.FC<HeroProps> = ({ darkMode, openResume }) => {
                   darkMode ? 'text-slate-300' : 'text-slate-600'
                 }`}
               >
-                Software Engineer with 4 years of continuous remote enterprise experience collaborating with a US-based company. Specializing in modular Angular web applications, robust C# / .NET Core backends, and offline-first Flutter mobile applications backed by Clean Architecture.
+                Software Engineer with 3 years of remote enterprise experience collaborating with a US-based company — 2 years of structured training followed by 1 year as a full-time engineer. Specializing in modular Angular web applications, robust C# / .NET Core backends, and offline-first Flutter mobile applications backed by Clean Architecture.
               </p>
 
               {/* Core Production Tech Stack Strip */}
