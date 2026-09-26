@@ -155,7 +155,7 @@ export const HeroVisual: React.FC<HeroVisualProps> = ({ darkMode }) => {
                   </div>
 
                   <span className={`text-[11px] font-mono font-semibold ${darkMode ? 'text-slate-300' : 'text-slate-700'}`}>
-                    3.67 GPA
+                    Cum. GPA 3.67
                   </span>
                 </div>
 
@@ -167,7 +167,7 @@ export const HeroVisual: React.FC<HeroVisualProps> = ({ darkMode }) => {
                         : 'bg-blue-100 text-blue-700'
                     }`}
                   >
-                    4 Yrs Remote Enterprise
+                    3 Yrs Remote Enterprise
                   </span>
                 </div>
 
@@ -252,7 +252,7 @@ export const HeroVisual: React.FC<HeroVisualProps> = ({ darkMode }) => {
             <div className="flex items-start gap-2">
               <CheckCircle2 className="w-3.5 h-3.5 text-emerald-500 shrink-0 mt-0.5" />
               <span className={darkMode ? 'text-slate-300' : 'text-slate-700'}>
-                <strong>Reliable Remote Autonomy:</strong> 4 years maintaining proactive communication, clear sprint commitments, and clean PRs.
+                <strong>Reliable Remote Autonomy:</strong> 3 years maintaining proactive communication, clear sprint commitments, and clean PRs.
               </span>
             </div>
           </div>
